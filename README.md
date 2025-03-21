@@ -10,5 +10,5 @@ By continuously monitoring its environment, the robot:
 - Tracks their position.
 - Alerts security personnel in real time.
 
-The goal is to **Enhance Situational Awareness** and **Improve Response Time** in high-risk environments.  
+The goal is to ***Enhance Situational Awareness*** and ***Improve Response Time*** in high-risk environments.  
 
